@@ -10,6 +10,9 @@ https://nodejs.org/en/
 VS Code:
 https://code.visualstudio.com/
 
+You'll also need discord.js witch you can install thru this command:
+`npm install discord.js`
+
 To run the bot you'll have to add in your own bot token first. You can get that here: https://discordapp.com/developers/applications/
 
 Then on windows just type `NODE index.js` in cmd or powershell to start the bot up after you have put the token in.
