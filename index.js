@@ -5,7 +5,7 @@ const client = new Discord.Client();
 client.login('TOKEN HERE');
 
 //Prints BEEES in the console on sucsessful startup
-client.on('ready', () => console.log('BEEES'));
+client.on('ready', () => console.log('Startup successful. Welcome Cave Johnson.'));
 const prefix = "!";
 
 const CHANNEL = 'aba';
@@ -28,8 +28,6 @@ client.on('message', message => {
     }
   }
 });
-
-
 
 
 //This looks for it there are any recent deletions in messages and logs them in the channel specified in const CHANNEL
