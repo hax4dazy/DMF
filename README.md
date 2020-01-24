@@ -16,3 +16,5 @@ You'll also need discord.js which you can install through this command:
 To run the bot you'll have to add in your own bot token first. You can get that here: https://discordapp.com/developers/applications/
 
 Then on windows just type `node index.js` in Command Prompt or Powershell to run the bot.
+
+Thanks to `@Daniel C#0818` for the horrendus logo.
