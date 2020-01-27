@@ -13,7 +13,7 @@ const profanity = 'IGN:';
 
 // Set the bot's "Playing: " status (must be in an event!)
 client.on("ready", () => {
-  client.user.setActivity("Mastrubating over loli hentai", { type: "WATCHING"})
+  client.user.setActivity("ban appeals", { type: "LISTENING"})
 })
 
 //this looks at the message and if it contains the word specified in the const profanity. I may have copied the code from somewhere but can't remember where
