@@ -6,8 +6,6 @@ client.login('TOKEN HERE');
 
 //Prints BEEES in the console on sucsessful startup
 client.on('ready', () => console.log('Startup successful. Welcome Cave Johnson.'));
-const prefix = "!";
-
 const CHANNEL = 'aba';
 const profanity = 'IGN:';
 
