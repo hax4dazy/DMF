@@ -4,7 +4,7 @@
   "description": "This forwards a discord message to another channel and deletes the original one",
   "main": "index.js",
   "dependencies": {
-    "discord.js": "^11.5.1"
+    "discord.js": "^12.2.0"
   },
   "devDependencies": {},
   "scripts": {
